@@ -4527,7 +4527,7 @@ img {
 }
 
 .services-section-s2 .service-grids .details, .services-section-s3 .service-grids .details {
-  padding: 35px 0 0 75px;
+  padding: 35px 0 0 0px;
   position: relative;
 }
 
@@ -4992,7 +4992,7 @@ img {
 
 @media (max-width: 767px) {
   .services-section-s3 .service-grids .details {
-    padding: 25px 0 0 55px;
+    padding: 25px 0 0 0px;
   }
 }
 
